@@ -1,0 +1,999 @@
+1: Blue Glow, Guardian 1 / BASE, Blank, Katana
+2: Blue Glow, Guardian 1 / BASE, Blank, Katana
+3: Blue Glow, Guardian 1 / BASE, Blue Eyes, No Weapon
+4: Blue Glow, Guardian 1 / BASE, Blue Eyes, No Weapon
+5: Blue Glow, Guardian 1 / BASE, Green Eyes, No Weapon
+6: Blue Glow, Guardian 1 / BASE, KILL Text, No Weapon
+7: Blue Glow, Guardian 1 / BASE, Red Eyes, Fire Katana
+8: Blue Glow, Guardian 1 / BASE, X_X, Fire Katana
+9: Blue Glow, Guardian 1 / BASE, xD, No Weapon
+10: Blue Glow, Guardian 2, :), No Weapon
+11: Blue Glow, Guardian 2, Blank, Sniper
+12: Blue Glow, Guardian 2, Blue Eyes, No Weapon
+13: Blue Glow, Guardian 2, KILL Text, No Weapon
+14: Blue Glow, Guardian 2, KILL Text, No Weapon
+15: Blue Glow, Guardian 2, Red Eyes, No Weapon
+16: Blue Glow, Guardian 2, Red Eyes, No Weapon
+17: Blue Glow, Guardian 2, X_X, No Weapon
+18: Blue Glow, Guardian 3, Blank, Ice Sniper
+19: Blue Glow, Guardian 3, Blank, No Weapon
+20: Blue Glow, Guardian 3, SOL Symbol, No Weapon
+21: Blue Glow, Guardian 3, X_X, No Weapon
+22: Blue Glow, Guardian 4, o_o, Elemental Katana X
+23: Blue Glow, Guardian 5 / WINGS, Green Eyes, No Weapon
+24: Blue Glow, Guardian 5 / WINGS, KILL Text, No Weapon
+25: CandleFlame, Guardian 1 / BASE, Blank, No Weapon
+26: CandleFlame, Guardian 1 / BASE, Blue Eyes, No Weapon
+27: CandleFlame, Guardian 1 / BASE, Daft Punk, Fire Sniper
+28: CandleFlame, Guardian 1 / BASE, Green Eyes, No Weapon
+29: CandleFlame, Guardian 1 / BASE, Green Skull, No Weapon
+30: CandleFlame, Guardian 1 / BASE, Green Skull, No Weapon
+31: CandleFlame, Guardian 1 / BASE, Heart, Katana
+32: CandleFlame, Guardian 1 / BASE, Mask, No Weapon
+33: CandleFlame, Guardian 1 / BASE, Red Eyes, Electric Katana
+34: CandleFlame, Guardian 1 / BASE, Red Eyes, Sniper
+35: CandleFlame, Guardian 1 / BASE, Red Skull, Katana
+36: CandleFlame, Guardian 1 / BASE, SOL Symbol, No Weapon
+37: CandleFlame, Guardian 1 / BASE, Target, Fire Katana
+38: CandleFlame, Guardian 1 / BASE, X_X, Katana
+39: CandleFlame, Guardian 2, Blank, Sniper
+40: CandleFlame, Guardian 2, Blue Skull, No Weapon
+41: CandleFlame, Guardian 2, Red Eyes, Sniper
+42: CandleFlame, Guardian 2, Red Skull, Katana
+43: CandleFlame, Guardian 2, o_o, No Weapon
+44: CandleFlame, Guardian 3, Blue Eyes, No Weapon
+45: CandleFlame, Guardian 3, Green Skull, Fire Katana
+46: CandleFlame, Guardian 3, Target, Katana
+47: CandleFlame, Guardian 4, KILL Text, No Weapon
+48: CandleFlame, Guardian 4, o_o, Katana
+49: CandleFlame, Guardian 5 / WINGS, Daft Punk, No Weapon
+50: Carbon Fiber, Guardian 1 / BASE, $, Electric Katana
+51: Carbon Fiber, Guardian 1 / BASE, $, No Weapon
+52: Carbon Fiber, Guardian 1 / BASE, $, No Weapon
+53: Carbon Fiber, Guardian 1 / BASE, :), No Weapon
+54: Carbon Fiber, Guardian 1 / BASE, :), No Weapon
+55: Carbon Fiber, Guardian 1 / BASE, :), No Weapon
+56: Carbon Fiber, Guardian 1 / BASE, Blank, Katana
+57: Carbon Fiber, Guardian 1 / BASE, Blank, No Weapon
+58: Carbon Fiber, Guardian 1 / BASE, Blank, No Weapon
+59: Carbon Fiber, Guardian 1 / BASE, Blank, No Weapon
+60: Carbon Fiber, Guardian 1 / BASE, Blue Eyes, Ice Katana
+61: Carbon Fiber, Guardian 1 / BASE, Blue Eyes, No Weapon
+62: Carbon Fiber, Guardian 1 / BASE, Blue Eyes, No Weapon
+63: Carbon Fiber, Guardian 1 / BASE, Blue Eyes, No Weapon
+64: Carbon Fiber, Guardian 1 / BASE, Blue Eyes, Sniper
+65: Carbon Fiber, Guardian 1 / BASE, Blue Skull, No Weapon
+66: Carbon Fiber, Guardian 1 / BASE, Green Eyes, Katana
+67: Carbon Fiber, Guardian 1 / BASE, Green Eyes, No Weapon
+68: Carbon Fiber, Guardian 1 / BASE, Green Eyes, No Weapon
+69: Carbon Fiber, Guardian 1 / BASE, Green Eyes, No Weapon
+70: Carbon Fiber, Guardian 1 / BASE, Green Skull, Electric Katana
+71: Carbon Fiber, Guardian 1 / BASE, Heart, No Weapon
+72: Carbon Fiber, Guardian 1 / BASE, KILL Text, Elemental Katana X
+73: Carbon Fiber, Guardian 1 / BASE, KILL Text, No Weapon
+74: Carbon Fiber, Guardian 1 / BASE, Red Eyes, Katana
+75: Carbon Fiber, Guardian 1 / BASE, Red Eyes, Katana
+76: Carbon Fiber, Guardian 1 / BASE, Red Eyes, No Weapon
+77: Carbon Fiber, Guardian 1 / BASE, Red Eyes, No Weapon
+78: Carbon Fiber, Guardian 1 / BASE, Red Eyes, No Weapon
+79: Carbon Fiber, Guardian 1 / BASE, Red Eyes, No Weapon
+80: Carbon Fiber, Guardian 1 / BASE, Red Eyes, No Weapon
+81: Carbon Fiber, Guardian 1 / BASE, Red Eyes, Sniper
+82: Carbon Fiber, Guardian 1 / BASE, SOL Symbol, Ice Sniper
+83: Carbon Fiber, Guardian 1 / BASE, X_X, No Weapon
+84: Carbon Fiber, Guardian 1 / BASE, X_X, No Weapon
+85: Carbon Fiber, Guardian 1 / BASE, o_o, Ice Katana
+86: Carbon Fiber, Guardian 1 / BASE, o_o, Katana
+87: Carbon Fiber, Guardian 1 / BASE, xD, No Weapon
+88: Carbon Fiber, Guardian 2, Blank, No Weapon
+89: Carbon Fiber, Guardian 2, Blue Skull, Elemental Sniper X
+90: Carbon Fiber, Guardian 2, Blue Skull, Katana
+91: Carbon Fiber, Guardian 2, Daft Punk, Electric Sniper
+92: Carbon Fiber, Guardian 2, Daft Punk, No Weapon
+93: Carbon Fiber, Guardian 2, Heart, No Weapon
+94: Carbon Fiber, Guardian 2, Heart, No Weapon
+95: Carbon Fiber, Guardian 2, KILL Text, Katana
+96: Carbon Fiber, Guardian 2, KILL Text, No Weapon
+97: Carbon Fiber, Guardian 2, KILL Text, No Weapon
+98: Carbon Fiber, Guardian 2, Mask, Ice Sniper
+99: Carbon Fiber, Guardian 2, Red Eyes, Ice Sniper
+100: Carbon Fiber, Guardian 2, Red Eyes, No Weapon
+101: Carbon Fiber, Guardian 2, Red Eyes, No Weapon
+102: Carbon Fiber, Guardian 2, Red Skull, No Weapon
+103: Carbon Fiber, Guardian 2, Target, No Weapon
+104: Carbon Fiber, Guardian 3, :), No Weapon
+105: Carbon Fiber, Guardian 3, Blue Eyes, Katana
+106: Carbon Fiber, Guardian 3, Blue Skull, Electric Sniper
+107: Carbon Fiber, Guardian 3, Blue Skull, No Weapon
+108: Carbon Fiber, Guardian 3, Blue Skull, No Weapon
+109: Carbon Fiber, Guardian 3, Green Eyes, No Weapon
+110: Carbon Fiber, Guardian 3, Green Eyes, No Weapon
+111: Carbon Fiber, Guardian 3, Green Skull, No Weapon
+112: Carbon Fiber, Guardian 3, Heart, No Weapon
+113: Carbon Fiber, Guardian 3, Heart, No Weapon
+114: Carbon Fiber, Guardian 3, KILL Text, No Weapon
+115: Carbon Fiber, Guardian 3, Red Eyes, Ice Katana
+116: Carbon Fiber, Guardian 3, Red Eyes, No Weapon
+117: Carbon Fiber, Guardian 3, SOL Symbol, No Weapon
+118: Carbon Fiber, Guardian 3, o_o, No Weapon
+119: Carbon Fiber, Guardian 3, xD, Katana
+120: Carbon Fiber, Guardian 3, xD, No Weapon
+121: Carbon Fiber, Guardian 4, $, Electric Sniper
+122: Carbon Fiber, Guardian 4, Blank, No Weapon
+123: Carbon Fiber, Guardian 4, Green Eyes, Fire Sniper
+124: Carbon Fiber, Guardian 4, Heart, No Weapon
+125: Carbon Fiber, Guardian 4, KILL Text, No Weapon
+126: Carbon Fiber, Guardian 4, X_X, No Weapon
+127: Carbon Fiber, Guardian 5 / WINGS, Blank, Fire Katana
+128: Carbon Fiber, Guardian 5 / WINGS, Blank, No Weapon
+129: Carbon Fiber, Guardian 5 / WINGS, Green Eyes, No Weapon
+130: Carbon Fiber, Guardian 5 / WINGS, Green Eyes, No Weapon
+131: Carbon Fiber, Guardian 5 / WINGS, Green Eyes, No Weapon
+132: Carbon Fiber, Guardian 5 / WINGS, X_X, No Weapon
+133: Cosmic Blue, Guardian 1 / BASE, :), Ice Katana
+134: Cosmic Blue, Guardian 1 / BASE, Blank, Electric Katana
+135: Cosmic Blue, Guardian 1 / BASE, Blank, No Weapon
+136: Cosmic Blue, Guardian 1 / BASE, Blank, Sniper
+137: Cosmic Blue, Guardian 1 / BASE, Blue Eyes, Katana
+138: Cosmic Blue, Guardian 1 / BASE, Blue Eyes, No Weapon
+139: Cosmic Blue, Guardian 1 / BASE, Blue Eyes, No Weapon
+140: Cosmic Blue, Guardian 1 / BASE, Green Eyes, Katana
+141: Cosmic Blue, Guardian 1 / BASE, Green Eyes, Katana
+142: Cosmic Blue, Guardian 1 / BASE, Green Eyes, Sniper
+143: Cosmic Blue, Guardian 1 / BASE, Green Skull, No Weapon
+144: Cosmic Blue, Guardian 1 / BASE, Green Skull, No Weapon
+145: Cosmic Blue, Guardian 1 / BASE, Heart, Ice Sniper
+146: Cosmic Blue, Guardian 1 / BASE, Heart, Katana
+147: Cosmic Blue, Guardian 1 / BASE, Heart, Katana
+148: Cosmic Blue, Guardian 1 / BASE, Heart, No Weapon
+149: Cosmic Blue, Guardian 1 / BASE, Heart, No Weapon
+150: Cosmic Blue, Guardian 1 / BASE, KILL Text, Electric Katana
+151: Cosmic Blue, Guardian 1 / BASE, Mask, Katana
+152: Cosmic Blue, Guardian 1 / BASE, Red Eyes, No Weapon
+153: Cosmic Blue, Guardian 1 / BASE, Red Eyes, No Weapon
+154: Cosmic Blue, Guardian 1 / BASE, Red Eyes, No Weapon
+155: Cosmic Blue, Guardian 1 / BASE, Red Eyes, No Weapon
+156: Cosmic Blue, Guardian 1 / BASE, SOL Symbol, Katana
+157: Cosmic Blue, Guardian 1 / BASE, SOL Symbol, Sniper
+158: Cosmic Blue, Guardian 1 / BASE, X_X, No Weapon
+159: Cosmic Blue, Guardian 1 / BASE, X_X, No Weapon
+160: Cosmic Blue, Guardian 1 / BASE, X_X, No Weapon
+161: Cosmic Blue, Guardian 1 / BASE, o_o, No Weapon
+162: Cosmic Blue, Guardian 1 / BASE, o_o, No Weapon
+163: Cosmic Blue, Guardian 1 / BASE, o_o, No Weapon
+164: Cosmic Blue, Guardian 1 / BASE, xD, Ice Katana
+165: Cosmic Blue, Guardian 1 / BASE, xD, No Weapon
+166: Cosmic Blue, Guardian 1 / BASE, xD, No Weapon
+167: Cosmic Blue, Guardian 2, $, Katana
+168: Cosmic Blue, Guardian 2, Blank, Fire Katana
+169: Cosmic Blue, Guardian 2, Blank, No Weapon
+170: Cosmic Blue, Guardian 2, Blank, No Weapon
+171: Cosmic Blue, Guardian 2, Blank, No Weapon
+172: Cosmic Blue, Guardian 2, Blank, No Weapon
+173: Cosmic Blue, Guardian 2, Blank, Sniper
+174: Cosmic Blue, Guardian 2, Green Eyes, No Weapon
+175: Cosmic Blue, Guardian 2, Green Eyes, No Weapon
+176: Cosmic Blue, Guardian 2, Green Eyes, No Weapon
+177: Cosmic Blue, Guardian 2, Green Eyes, No Weapon
+178: Cosmic Blue, Guardian 2, Heart, No Weapon
+179: Cosmic Blue, Guardian 2, Red Eyes, No Weapon
+180: Cosmic Blue, Guardian 2, Red Skull, No Weapon
+181: Cosmic Blue, Guardian 2, X_X, Sniper
+182: Cosmic Blue, Guardian 2, o_o, Electric Katana
+183: Cosmic Blue, Guardian 2, xD, Katana
+184: Cosmic Blue, Guardian 3, :), No Weapon
+185: Cosmic Blue, Guardian 3, Blank, Ice Katana
+186: Cosmic Blue, Guardian 3, Blank, No Weapon
+187: Cosmic Blue, Guardian 3, Blue Skull, No Weapon
+188: Cosmic Blue, Guardian 3, Daft Punk, No Weapon
+189: Cosmic Blue, Guardian 3, Green Eyes, Electric Katana
+190: Cosmic Blue, Guardian 3, Heart, No Weapon
+191: Cosmic Blue, Guardian 3, Mask, No Weapon
+192: Cosmic Blue, Guardian 3, Red Skull, No Weapon
+193: Cosmic Blue, Guardian 3, SOL Symbol, Katana
+194: Cosmic Blue, Guardian 3, Target, No Weapon
+195: Cosmic Blue, Guardian 3, o_o, No Weapon
+196: Cosmic Blue, Guardian 3, xD, No Weapon
+197: Cosmic Blue, Guardian 4, Green Eyes, Katana
+198: Cosmic Blue, Guardian 4, Green Eyes, Katana
+199: Cosmic Blue, Guardian 4, Green Eyes, No Weapon
+200: Cosmic Blue, Guardian 4, Heart, No Weapon
+201: Cosmic Blue, Guardian 4, Heart, No Weapon
+202: Cosmic Blue, Guardian 4, Heart, No Weapon
+203: Cosmic Blue, Guardian 4, KILL Text, No Weapon
+204: Cosmic Blue, Guardian 4, KILL Text, No Weapon
+205: Cosmic Blue, Guardian 4, Mask, No Weapon
+206: Cosmic Blue, Guardian 4, Target, No Weapon
+207: Cosmic Blue, Guardian 4, xD, No Weapon
+208: Cosmic Blue, Guardian 5 / WINGS, Blank, No Weapon
+209: Cosmic Blue, Guardian 5 / WINGS, Blank, Sniper
+210: Cosmic Blue, Guardian 5 / WINGS, Blue Eyes, Sniper
+211: Cosmic Blue, Guardian 5 / WINGS, Green Eyes, No Weapon
+212: Cosmic Blue, Guardian 5 / WINGS, Green Eyes, No Weapon
+213: Cosmic Blue, Guardian 5 / WINGS, Red Skull, No Weapon
+214: Digital Camo, Guardian 1 / BASE, $, No Weapon
+215: Digital Camo, Guardian 1 / BASE, :), No Weapon
+216: Digital Camo, Guardian 1 / BASE, :), No Weapon
+217: Digital Camo, Guardian 1 / BASE, :), Sniper
+218: Digital Camo, Guardian 1 / BASE, Blank, No Weapon
+219: Digital Camo, Guardian 1 / BASE, Blank, No Weapon
+220: Digital Camo, Guardian 1 / BASE, Blank, No Weapon
+221: Digital Camo, Guardian 1 / BASE, Blank, No Weapon
+222: Digital Camo, Guardian 1 / BASE, Blue Eyes, No Weapon
+223: Digital Camo, Guardian 1 / BASE, Blue Eyes, No Weapon
+224: Digital Camo, Guardian 1 / BASE, Blue Eyes, No Weapon
+225: Digital Camo, Guardian 1 / BASE, Blue Skull, Electric Katana
+226: Digital Camo, Guardian 1 / BASE, Green Eyes, No Weapon
+227: Digital Camo, Guardian 1 / BASE, Green Eyes, No Weapon
+228: Digital Camo, Guardian 1 / BASE, Green Eyes, Sniper
+229: Digital Camo, Guardian 1 / BASE, Green Skull, No Weapon
+230: Digital Camo, Guardian 1 / BASE, Green Skull, No Weapon
+231: Digital Camo, Guardian 1 / BASE, Heart, Katana
+232: Digital Camo, Guardian 1 / BASE, Heart, No Weapon
+233: Digital Camo, Guardian 1 / BASE, Heart, No Weapon
+234: Digital Camo, Guardian 1 / BASE, KILL Text, No Weapon
+235: Digital Camo, Guardian 1 / BASE, KILL Text, No Weapon
+236: Digital Camo, Guardian 1 / BASE, Red Eyes, No Weapon
+237: Digital Camo, Guardian 1 / BASE, Red Eyes, No Weapon
+238: Digital Camo, Guardian 1 / BASE, Red Eyes, No Weapon
+239: Digital Camo, Guardian 1 / BASE, Red Eyes, No Weapon
+240: Digital Camo, Guardian 1 / BASE, Red Eyes, Sniper
+241: Digital Camo, Guardian 1 / BASE, Red Skull, No Weapon
+242: Digital Camo, Guardian 1 / BASE, SOL Symbol, No Weapon
+243: Digital Camo, Guardian 1 / BASE, Target, No Weapon
+244: Digital Camo, Guardian 1 / BASE, Target, No Weapon
+245: Digital Camo, Guardian 1 / BASE, X_X, Ice Sniper
+246: Digital Camo, Guardian 1 / BASE, X_X, Katana
+247: Digital Camo, Guardian 1 / BASE, X_X, Sniper
+248: Digital Camo, Guardian 1 / BASE, X_X, Sniper
+249: Digital Camo, Guardian 1 / BASE, o_o, Fire Sniper
+250: Digital Camo, Guardian 1 / BASE, o_o, No Weapon
+251: Digital Camo, Guardian 1 / BASE, xD, Katana
+252: Digital Camo, Guardian 1 / BASE, xD, No Weapon
+253: Digital Camo, Guardian 1 / BASE, xD, No Weapon
+254: Digital Camo, Guardian 2, $, No Weapon
+255: Digital Camo, Guardian 2, $, No Weapon
+256: Digital Camo, Guardian 2, :), Sniper
+257: Digital Camo, Guardian 2, Blank, No Weapon
+258: Digital Camo, Guardian 2, Blank, No Weapon
+259: Digital Camo, Guardian 2, Blue Eyes, Sniper
+260: Digital Camo, Guardian 2, Blue Skull, No Weapon
+261: Digital Camo, Guardian 2, Blue Skull, No Weapon
+262: Digital Camo, Guardian 2, Green Eyes, Katana
+263: Digital Camo, Guardian 2, Green Eyes, No Weapon
+264: Digital Camo, Guardian 2, Green Eyes, No Weapon
+265: Digital Camo, Guardian 2, Green Eyes, No Weapon
+266: Digital Camo, Guardian 2, Heart, No Weapon
+267: Digital Camo, Guardian 2, KILL Text, Katana
+268: Digital Camo, Guardian 2, Mask, No Weapon
+269: Digital Camo, Guardian 2, Mask, No Weapon
+270: Digital Camo, Guardian 2, Red Eyes, No Weapon
+271: Digital Camo, Guardian 2, Red Eyes, No Weapon
+272: Digital Camo, Guardian 2, X_X, No Weapon
+273: Digital Camo, Guardian 2, X_X, No Weapon
+274: Digital Camo, Guardian 3, :), Ice Sniper
+275: Digital Camo, Guardian 3, :), Katana
+276: Digital Camo, Guardian 3, :), No Weapon
+277: Digital Camo, Guardian 3, :), No Weapon
+278: Digital Camo, Guardian 3, Blank, Flamethrower X
+279: Digital Camo, Guardian 3, Blank, No Weapon
+280: Digital Camo, Guardian 3, Blue Skull, No Weapon
+281: Digital Camo, Guardian 3, Green Eyes, No Weapon
+282: Digital Camo, Guardian 3, Green Eyes, Sniper
+283: Digital Camo, Guardian 3, Green Skull, No Weapon
+284: Digital Camo, Guardian 3, Red Eyes, No Weapon
+285: Digital Camo, Guardian 3, Red Eyes, No Weapon
+286: Digital Camo, Guardian 3, Red Eyes, No Weapon
+287: Digital Camo, Guardian 3, X_X, Sniper
+288: Digital Camo, Guardian 3, xD, Electric Katana
+289: Digital Camo, Guardian 3, xD, No Weapon
+290: Digital Camo, Guardian 3, xD, No Weapon
+291: Digital Camo, Guardian 4, Blank, Katana
+292: Digital Camo, Guardian 4, Blue Eyes, Electric Katana
+293: Digital Camo, Guardian 4, Blue Eyes, No Weapon
+294: Digital Camo, Guardian 4, Green Eyes, No Weapon
+295: Digital Camo, Guardian 4, Green Skull, No Weapon
+296: Digital Camo, Guardian 4, Green Skull, No Weapon
+297: Digital Camo, Guardian 4, Green Skull, No Weapon
+298: Digital Camo, Guardian 4, KILL Text, No Weapon
+299: Digital Camo, Guardian 4, Red Eyes, Katana
+300: Digital Camo, Guardian 4, Red Eyes, No Weapon
+301: Digital Camo, Guardian 5 / WINGS, :), No Weapon
+302: Digital Camo, Guardian 5 / WINGS, :), No Weapon
+303: Digital Camo, Guardian 5 / WINGS, Blank, Fire Katana
+304: Digital Camo, Guardian 5 / WINGS, Blank, Fire Sniper
+305: Digital Camo, Guardian 5 / WINGS, Green Eyes, No Weapon
+306: Digital Camo, Guardian 5 / WINGS, Green Skull, Katana
+307: Digital Camo, Guardian 5 / WINGS, Mask, No Weapon
+308: Digital Camo, Guardian 5 / WINGS, X_X, Electric Katana
+309: Disco, Guardian 1 / BASE, Blue Skull, No Weapon
+310: Disco, Guardian 1 / BASE, Red Eyes, No Weapon
+311: Disco, Guardian 1 / BASE, Red Eyes, No Weapon
+312: Disco, Guardian 1 / BASE, Red Skull, No Weapon
+313: Disco, Guardian 1 / BASE, Target, No Weapon
+314: Disco, Guardian 1 / BASE, X_X, No Weapon
+315: Disco, Guardian 1 / BASE, o_o, No Weapon
+316: Disco, Guardian 2, $, Ice Sniper
+317: Disco, Guardian 2, $, Katana
+318: Disco, Guardian 2, KILL Text, No Weapon
+319: Disco, Guardian 2, Mask, Electric Sniper
+320: Disco, Guardian 2, Red Eyes, No Weapon
+321: Disco, Guardian 2, X_X, No Weapon
+322: Disco, Guardian 3, Heart, No Weapon
+323: Disco, Guardian 3, Red Skull, Ice Katana
+324: Disco, Guardian 5 / WINGS, Green Eyes, No Weapon
+325: Electric, Guardian 1 / BASE, $, No Weapon
+326: Electric, Guardian 1 / BASE, Blank, No Weapon
+327: Electric, Guardian 1 / BASE, Blank, No Weapon
+328: Electric, Guardian 1 / BASE, Blue Eyes, No Weapon
+329: Electric, Guardian 1 / BASE, Heart, Sniper
+330: Electric, Guardian 1 / BASE, o_o, No Weapon
+331: Electric, Guardian 2, Blue Skull, No Weapon
+332: Electric, Guardian 2, Red Skull, No Weapon
+333: Electric, Guardian 2, Red Skull, No Weapon
+334: Electric, Guardian 2, Target, Sniper
+335: Electric, Guardian 5 / WINGS, Blue Eyes, No Weapon
+336: Fire, Guardian 1 / BASE, Blank, Katana
+337: Fire, Guardian 1 / BASE, Blue Eyes, Katana
+338: Fire, Guardian 1 / BASE, Blue Skull, No Weapon
+339: Fire, Guardian 1 / BASE, xD, Electric Sniper
+340: Fire, Guardian 1 / BASE, xD, No Weapon
+341: Fire, Guardian 2, Blue Eyes, No Weapon
+342: Fire, Guardian 2, Green Skull, No Weapon
+343: Fire, Guardian 3, Green Eyes, Sniper
+344: Fire, Guardian 5 / WINGS, KILL Text, Ice Katana
+345: Holographic, Guardian 1 / BASE, $, No Weapon
+346: Holographic, Guardian 1 / BASE, :), No Weapon
+347: Holographic, Guardian 1 / BASE, :), No Weapon
+348: Holographic, Guardian 1 / BASE, Blank, No Weapon
+349: Holographic, Guardian 1 / BASE, Blue Eyes, No Weapon
+350: Holographic, Guardian 1 / BASE, Blue Eyes, No Weapon
+351: Holographic, Guardian 1 / BASE, Blue Eyes, No Weapon
+352: Holographic, Guardian 1 / BASE, Blue Eyes, Sniper
+353: Holographic, Guardian 1 / BASE, Blue Skull, Katana
+354: Holographic, Guardian 1 / BASE, Blue Skull, No Weapon
+355: Holographic, Guardian 1 / BASE, Green Eyes, Katana
+356: Holographic, Guardian 1 / BASE, Green Eyes, No Weapon
+357: Holographic, Guardian 1 / BASE, Green Eyes, No Weapon
+358: Holographic, Guardian 1 / BASE, Green Eyes, No Weapon
+359: Holographic, Guardian 1 / BASE, Green Skull, Katana
+360: Holographic, Guardian 1 / BASE, Green Skull, No Weapon
+361: Holographic, Guardian 1 / BASE, Heart, Ice Sniper
+362: Holographic, Guardian 1 / BASE, KILL Text, No Weapon
+363: Holographic, Guardian 1 / BASE, KILL Text, Sniper
+364: Holographic, Guardian 1 / BASE, KILL Text, Sniper
+365: Holographic, Guardian 1 / BASE, Red Eyes, Katana
+366: Holographic, Guardian 1 / BASE, Red Eyes, Katana
+367: Holographic, Guardian 1 / BASE, Red Eyes, No Weapon
+368: Holographic, Guardian 1 / BASE, Red Eyes, No Weapon
+369: Holographic, Guardian 1 / BASE, Red Eyes, No Weapon
+370: Holographic, Guardian 1 / BASE, SOL Symbol, No Weapon
+371: Holographic, Guardian 1 / BASE, SOL Symbol, No Weapon
+372: Holographic, Guardian 1 / BASE, X_X, Electric Katana
+373: Holographic, Guardian 1 / BASE, X_X, No Weapon
+374: Holographic, Guardian 1 / BASE, X_X, No Weapon
+375: Holographic, Guardian 1 / BASE, X_X, No Weapon
+376: Holographic, Guardian 1 / BASE, o_o, No Weapon
+377: Holographic, Guardian 1 / BASE, o_o, No Weapon
+378: Holographic, Guardian 1 / BASE, o_o, No Weapon
+379: Holographic, Guardian 1 / BASE, xD, No Weapon
+380: Holographic, Guardian 2, :), Sniper
+381: Holographic, Guardian 2, Blank, No Weapon
+382: Holographic, Guardian 2, Blank, No Weapon
+383: Holographic, Guardian 2, Blue Eyes, No Weapon
+384: Holographic, Guardian 2, Blue Eyes, No Weapon
+385: Holographic, Guardian 2, Blue Eyes, Sniper
+386: Holographic, Guardian 2, Green Eyes, No Weapon
+387: Holographic, Guardian 2, KILL Text, No Weapon
+388: Holographic, Guardian 2, Red Eyes, Katana
+389: Holographic, Guardian 2, Red Eyes, Katana
+390: Holographic, Guardian 2, Red Eyes, No Weapon
+391: Holographic, Guardian 2, Red Eyes, Sniper
+392: Holographic, Guardian 2, Red Skull, No Weapon
+393: Holographic, Guardian 2, SOL Symbol, No Weapon
+394: Holographic, Guardian 2, Target, Katana
+395: Holographic, Guardian 2, X_X, No Weapon
+396: Holographic, Guardian 2, o_o, No Weapon
+397: Holographic, Guardian 2, xD, No Weapon
+398: Holographic, Guardian 2, xD, No Weapon
+399: Holographic, Guardian 2, xD, No Weapon
+400: Holographic, Guardian 3, $, Electric Sniper
+401: Holographic, Guardian 3, Blank, No Weapon
+402: Holographic, Guardian 3, Blue Eyes, No Weapon
+403: Holographic, Guardian 3, Blue Eyes, No Weapon
+404: Holographic, Guardian 3, Blue Eyes, No Weapon
+405: Holographic, Guardian 3, Green Eyes, Katana
+406: Holographic, Guardian 3, Green Eyes, No Weapon
+407: Holographic, Guardian 3, Heart, No Weapon
+408: Holographic, Guardian 3, o_o, Electric Katana
+409: Holographic, Guardian 3, o_o, No Weapon
+410: Holographic, Guardian 3, xD, Electric Sniper
+411: Holographic, Guardian 4, Blank, No Weapon
+412: Holographic, Guardian 4, Blue Eyes, Electric Katana
+413: Holographic, Guardian 4, Green Eyes, Electric Katana
+414: Holographic, Guardian 4, Green Eyes, Ice Katana
+415: Holographic, Guardian 4, Heart, No Weapon
+416: Holographic, Guardian 4, Red Eyes, Electric Sniper
+417: Holographic, Guardian 4, Red Eyes, No Weapon
+418: Holographic, Guardian 4, xD, No Weapon
+419: Holographic, Guardian 5 / WINGS, $, No Weapon
+420: Holographic, Guardian 5 / WINGS, Blue Eyes, No Weapon
+421: Holographic, Guardian 5 / WINGS, Blue Skull, No Weapon
+422: Holographic, Guardian 5 / WINGS, Green Eyes, No Weapon
+423: Holographic, Guardian 5 / WINGS, KILL Text, Sniper
+424: Holographic, Guardian 5 / WINGS, Red Skull, No Weapon
+425: Hot Pink, Guardian 1 / BASE, Blue Eyes, No Weapon
+426: Hot Pink, Guardian 1 / BASE, Green Eyes, No Weapon
+427: Hot Pink, Guardian 1 / BASE, Green Eyes, No Weapon
+428: Hot Pink, Guardian 1 / BASE, SOL Symbol, No Weapon
+429: Hot Pink, Guardian 1 / BASE, o_o, Katana
+430: Hot Pink, Guardian 1 / BASE, o_o, No Weapon
+431: Hot Pink, Guardian 1 / BASE, xD, Electric Sniper
+432: Hot Pink, Guardian 1 / BASE, xD, Katana
+433: Hot Pink, Guardian 2, Blue Eyes, Fire Katana
+434: Hot Pink, Guardian 2, Blue Eyes, No Weapon
+435: Hot Pink, Guardian 2, Daft Punk, No Weapon
+436: Hot Pink, Guardian 2, Green Eyes, Ice Sniper
+437: Hot Pink, Guardian 2, Heart, No Weapon
+438: Hot Pink, Guardian 2, Red Eyes, Katana
+439: Hot Pink, Guardian 3, Blank, No Weapon
+440: Hot Pink, Guardian 3, Blue Eyes, No Weapon
+441: Hot Pink, Guardian 3, Blue Skull, Katana
+442: Hot Pink, Guardian 3, xD, No Weapon
+443: Hot Pink, Guardian 4, $, No Weapon
+444: Hot Pink, Guardian 4, Blue Eyes, Katana
+445: Hot Pink, Guardian 4, Green Skull, Sniper
+446: Hot Pink, Guardian 4, KILL Text, Ice Sniper
+447: Ice, Guardian 1 / BASE, $, No Weapon
+448: Ice, Guardian 1 / BASE, Blank, Ice Katana
+449: Ice, Guardian 1 / BASE, Blank, No Weapon
+450: Ice, Guardian 1 / BASE, Blue Skull, Electric Katana
+451: Ice, Guardian 1 / BASE, Green Eyes, No Weapon
+452: Ice, Guardian 1 / BASE, Red Skull, No Weapon
+453: Ice, Guardian 1 / BASE, X_X, Ice Katana
+454: Ice, Guardian 2, Heart, No Weapon
+455: Ice, Guardian 2, Red Skull, No Weapon
+456: Ice, Guardian 3, Red Eyes, No Weapon
+457: Ice, Guardian 4, o_o, No Weapon
+458: Jelly Bean, Guardian 1 / BASE, Blue Eyes, No Weapon
+459: Jelly Bean, Guardian 1 / BASE, Green Skull, No Weapon
+460: Jelly Bean, Guardian 1 / BASE, KILL Text, No Weapon
+461: Jelly Bean, Guardian 1 / BASE, Red Eyes, No Weapon
+462: Jelly Bean, Guardian 1 / BASE, SOL Symbol, Electric Katana
+463: Jelly Bean, Guardian 1 / BASE, X_X, Ice Katana
+464: Jelly Bean, Guardian 1 / BASE, o_o, Electric Sniper
+465: Jelly Bean, Guardian 1 / BASE, o_o, No Weapon
+466: Jelly Bean, Guardian 2, :), No Weapon
+467: Jelly Bean, Guardian 2, Blue Eyes, No Weapon
+468: Jelly Bean, Guardian 2, Green Skull, Sniper
+469: Jelly Bean, Guardian 2, KILL Text, No Weapon
+470: Jelly Bean, Guardian 2, o_o, No Weapon
+471: Jelly Bean, Guardian 3, Blue Skull, No Weapon
+472: Jelly Bean, Guardian 3, Mask, Sniper
+473: Jelly Bean, Guardian 3, X_X, Sniper
+474: Jelly Bean, Guardian 3, o_o, Ice Katana
+475: Jelly Bean, Guardian 3, o_o, Sniper
+476: Jelly Bean, Guardian 4, Heart, No Weapon
+477: Jelly Bean, Guardian 5 / WINGS, o_o, No Weapon
+478: Jelly Bean, Guardian 5 / WINGS, xD, No Weapon
+479: Lambo Gold, Guardian 1 / BASE, Blank, No Weapon
+480: Lambo Gold, Guardian 1 / BASE, Green Eyes, No Weapon
+481: Lambo Gold, Guardian 1 / BASE, Red Eyes, Katana
+482: Lambo Gold, Guardian 1 / BASE, Red Eyes, No Weapon
+483: Lambo Gold, Guardian 1 / BASE, Red Skull, No Weapon
+484: Lambo Gold, Guardian 1 / BASE, SOL Symbol, No Weapon
+485: Lambo Gold, Guardian 1 / BASE, o_o, Katana
+486: Lambo Gold, Guardian 2, $, Katana
+487: Lambo Gold, Guardian 2, Blue Skull, No Weapon
+488: Lambo Gold, Guardian 2, Green Eyes, No Weapon
+489: Lambo Gold, Guardian 2, Target, No Weapon
+490: Lambo Gold, Guardian 2, xD, No Weapon
+491: Lambo Gold, Guardian 3, Heart, Electric Katana
+492: Lambo Gold, Guardian 3, Heart, No Weapon
+493: Lambo Gold, Guardian 3, o_o, Ice Katana
+494: Lambo Gold, Guardian 4, $, Ice Sniper
+495: Lambo Gold, Guardian 4, Blank, No Weapon
+496: Lambo Gold, Guardian 4, Blue Eyes, Katana
+497: Lambo Gold, Guardian 4, Green Eyes, No Weapon
+498: Lambo Gold, Guardian 4, Heart, No Weapon
+499: Lambo Gold, Guardian 4, Target, No Weapon
+500: Lambo Gold, Guardian 4, o_o, Katana
+501: Lambo Gold, Guardian 5 / WINGS, :), No Weapon
+502: Lava, Guardian 1 / BASE, $, Katana
+503: Lava, Guardian 1 / BASE, :), No Weapon
+504: Lava, Guardian 1 / BASE, Blue Eyes, No Weapon
+505: Lava, Guardian 1 / BASE, Blue Eyes, No Weapon
+506: Lava, Guardian 1 / BASE, Blue Skull, No Weapon
+507: Lava, Guardian 1 / BASE, Green Skull, No Weapon
+508: Lava, Guardian 1 / BASE, SOL Symbol, Sniper
+509: Lava, Guardian 1 / BASE, X_X, No Weapon
+510: Lava, Guardian 1 / BASE, o_o, No Weapon
+511: Lava, Guardian 1 / BASE, xD, No Weapon
+512: Lava, Guardian 2, Blank, Katana
+513: Lava, Guardian 2, Blank, Katana
+514: Lava, Guardian 2, Green Eyes, Fire Sniper
+515: Lava, Guardian 2, Green Eyes, Ice Katana
+516: Lava, Guardian 2, o_o, No Weapon
+517: Lava, Guardian 2, xD, Katana
+518: Lava, Guardian 3, Heart, Ice Katana
+519: Lava, Guardian 4, Green Skull, No Weapon
+520: Lava, Guardian 4, Red Eyes, No Weapon
+521: Lava, Guardian 5 / WINGS, Blue Eyes, Sniper
+522: MSMC Copper Liquid, Guardian 1 / BASE, Blue Eyes, Flamethrower X
+523: MSMC Copper Liquid, Guardian 1 / BASE, Green Eyes, No Weapon
+524: MSMC Copper Liquid, Guardian 1 / BASE, Green Skull, Sniper
+525: MSMC Copper Liquid, Guardian 1 / BASE, Heart, No Weapon
+526: MSMC Copper Liquid, Guardian 1 / BASE, KILL Text, Katana
+527: MSMC Copper Liquid, Guardian 1 / BASE, KILL Text, No Weapon
+528: MSMC Copper Liquid, Guardian 1 / BASE, SOL Symbol, No Weapon
+529: MSMC Copper Liquid, Guardian 2, :), Katana
+530: MSMC Copper Liquid, Guardian 2, Blank, No Weapon
+531: MSMC Copper Liquid, Guardian 2, Blank, No Weapon
+532: MSMC Copper Liquid, Guardian 2, Blue Eyes, Elemental Katana X
+533: MSMC Copper Liquid, Guardian 2, Green Eyes, Katana
+534: MSMC Copper Liquid, Guardian 2, Green Eyes, No Weapon
+535: MSMC Copper Liquid, Guardian 2, Green Skull, Sniper
+536: MSMC Copper Liquid, Guardian 3, :), Katana
+537: MSMC Copper Liquid, Guardian 3, :), No Weapon
+538: MSMC Copper Liquid, Guardian 3, xD, Katana
+539: MSMC Copper Liquid, Guardian 4, X_X, No Weapon
+540: MSMC Copper Liquid, Guardian 5 / WINGS, Blue Eyes, No Weapon
+541: MSMC Copper Liquid, Guardian 5 / WINGS, Daft Punk, No Weapon
+542: MSMC Copper Matte, Guardian 1 / BASE, $, No Weapon
+543: MSMC Copper Matte, Guardian 1 / BASE, :), No Weapon
+544: MSMC Copper Matte, Guardian 1 / BASE, Blank, Katana
+545: MSMC Copper Matte, Guardian 1 / BASE, Daft Punk, No Weapon
+546: MSMC Copper Matte, Guardian 1 / BASE, Green Eyes, Electric Sniper
+547: MSMC Copper Matte, Guardian 1 / BASE, Heart, Katana
+548: MSMC Copper Matte, Guardian 1 / BASE, Heart, No Weapon
+549: MSMC Copper Matte, Guardian 1 / BASE, KILL Text, Katana
+550: MSMC Copper Matte, Guardian 1 / BASE, KILL Text, No Weapon
+551: MSMC Copper Matte, Guardian 1 / BASE, Mask, No Weapon
+552: MSMC Copper Matte, Guardian 1 / BASE, Red Eyes, Fire Katana
+553: MSMC Copper Matte, Guardian 1 / BASE, Red Eyes, Fire Sniper
+554: MSMC Copper Matte, Guardian 1 / BASE, Red Eyes, Katana
+555: MSMC Copper Matte, Guardian 1 / BASE, Red Eyes, No Weapon
+556: MSMC Copper Matte, Guardian 1 / BASE, Red Eyes, No Weapon
+557: MSMC Copper Matte, Guardian 1 / BASE, Red Skull, Sniper
+558: MSMC Copper Matte, Guardian 1 / BASE, X_X, No Weapon
+559: MSMC Copper Matte, Guardian 1 / BASE, o_o, Katana
+560: MSMC Copper Matte, Guardian 1 / BASE, xD, Fire Sniper
+561: MSMC Copper Matte, Guardian 1 / BASE, xD, No Weapon
+562: MSMC Copper Matte, Guardian 1 / BASE, xD, No Weapon
+563: MSMC Copper Matte, Guardian 1 / BASE, xD, No Weapon
+564: MSMC Copper Matte, Guardian 2, Blank, No Weapon
+565: MSMC Copper Matte, Guardian 2, Blank, Sniper
+566: MSMC Copper Matte, Guardian 2, Blue Eyes, No Weapon
+567: MSMC Copper Matte, Guardian 2, Blue Eyes, No Weapon
+568: MSMC Copper Matte, Guardian 2, Blue Eyes, No Weapon
+569: MSMC Copper Matte, Guardian 2, Green Eyes, No Weapon
+570: MSMC Copper Matte, Guardian 2, Heart, No Weapon
+571: MSMC Copper Matte, Guardian 2, KILL Text, Flamethrower X
+572: MSMC Copper Matte, Guardian 2, KILL Text, Ice Katana
+573: MSMC Copper Matte, Guardian 2, Red Eyes, Electric Katana
+574: MSMC Copper Matte, Guardian 2, o_o, No Weapon
+575: MSMC Copper Matte, Guardian 2, xD, No Weapon
+576: MSMC Copper Matte, Guardian 2, xD, No Weapon
+577: MSMC Copper Matte, Guardian 3, :), No Weapon
+578: MSMC Copper Matte, Guardian 3, Blank, No Weapon
+579: MSMC Copper Matte, Guardian 3, Blue Eyes, No Weapon
+580: MSMC Copper Matte, Guardian 3, Blue Eyes, No Weapon
+581: MSMC Copper Matte, Guardian 3, Green Eyes, Flamethrower X
+582: MSMC Copper Matte, Guardian 3, SOL Symbol, No Weapon
+583: MSMC Copper Matte, Guardian 4, $, Electric Katana
+584: MSMC Copper Matte, Guardian 4, KILL Text, No Weapon
+585: MSMC Copper Matte, Guardian 4, Red Eyes, No Weapon
+586: MSMC Copper Matte, Guardian 5 / WINGS, Red Skull, No Weapon
+587: MSMC Copper Matte, Guardian 5 / WINGS, xD, No Weapon
+588: MSMCBLB1, Guardian 1 / BASE, $, No Weapon
+589: MSMCBLB1, Guardian 1 / BASE, :), No Weapon
+590: MSMCBLB1, Guardian 1 / BASE, Blank, No Weapon
+591: MSMCBLB1, Guardian 1 / BASE, Blank, No Weapon
+592: MSMCBLB1, Guardian 1 / BASE, Blank, No Weapon
+593: MSMCBLB1, Guardian 1 / BASE, Blank, No Weapon
+594: MSMCBLB1, Guardian 1 / BASE, Blue Eyes, Ice Sniper
+595: MSMCBLB1, Guardian 1 / BASE, Blue Eyes, No Weapon
+596: MSMCBLB1, Guardian 1 / BASE, Blue Eyes, No Weapon
+597: MSMCBLB1, Guardian 1 / BASE, Green Eyes, No Weapon
+598: MSMCBLB1, Guardian 1 / BASE, Green Eyes, No Weapon
+599: MSMCBLB1, Guardian 1 / BASE, Green Eyes, No Weapon
+600: MSMCBLB1, Guardian 1 / BASE, Green Eyes, No Weapon
+601: MSMCBLB1, Guardian 1 / BASE, Heart, Electric Sniper
+602: MSMCBLB1, Guardian 1 / BASE, Heart, Katana
+603: MSMCBLB1, Guardian 1 / BASE, KILL Text, Ice Sniper
+604: MSMCBLB1, Guardian 1 / BASE, KILL Text, No Weapon
+605: MSMCBLB1, Guardian 1 / BASE, KILL Text, No Weapon
+606: MSMCBLB1, Guardian 1 / BASE, Red Eyes, Fire Sniper
+607: MSMCBLB1, Guardian 1 / BASE, Red Eyes, No Weapon
+608: MSMCBLB1, Guardian 1 / BASE, Red Eyes, No Weapon
+609: MSMCBLB1, Guardian 1 / BASE, Red Eyes, No Weapon
+610: MSMCBLB1, Guardian 1 / BASE, Target, No Weapon
+611: MSMCBLB1, Guardian 1 / BASE, X_X, No Weapon
+612: MSMCBLB1, Guardian 1 / BASE, X_X, No Weapon
+613: MSMCBLB1, Guardian 1 / BASE, o_o, Flamethrower X
+614: MSMCBLB1, Guardian 1 / BASE, o_o, No Weapon
+615: MSMCBLB1, Guardian 2, :), No Weapon
+616: MSMCBLB1, Guardian 2, Blank, Fire Sniper
+617: MSMCBLB1, Guardian 2, Blank, No Weapon
+618: MSMCBLB1, Guardian 2, Blue Eyes, Fire Katana
+619: MSMCBLB1, Guardian 2, Blue Eyes, No Weapon
+620: MSMCBLB1, Guardian 2, Daft Punk, Katana
+621: MSMCBLB1, Guardian 2, Green Eyes, No Weapon
+622: MSMCBLB1, Guardian 2, Heart, Katana
+623: MSMCBLB1, Guardian 2, Red Skull, No Weapon
+624: MSMCBLB1, Guardian 2, X_X, Katana
+625: MSMCBLB1, Guardian 2, o_o, No Weapon
+626: MSMCBLB1, Guardian 2, xD, No Weapon
+627: MSMCBLB1, Guardian 2, xD, Sniper
+628: MSMCBLB1, Guardian 3, Blank, No Weapon
+629: MSMCBLB1, Guardian 3, Blue Eyes, No Weapon
+630: MSMCBLB1, Guardian 3, Blue Skull, No Weapon
+631: MSMCBLB1, Guardian 3, Green Eyes, No Weapon
+632: MSMCBLB1, Guardian 3, Green Skull, Sniper
+633: MSMCBLB1, Guardian 3, KILL Text, No Weapon
+634: MSMCBLB1, Guardian 3, Red Skull, Electric Katana
+635: MSMCBLB1, Guardian 3, xD, Fire Katana
+636: MSMCBLB1, Guardian 4, $, Ice Sniper
+637: MSMCBLB1, Guardian 4, :), No Weapon
+638: MSMCBLB1, Guardian 4, Green Eyes, No Weapon
+639: MSMCBLB1, Guardian 4, Green Eyes, No Weapon
+640: MSMCBLB1, Guardian 4, Red Eyes, Katana
+641: MSMCBLB1, Guardian 4, SOL Symbol, Fire Sniper
+642: MSMCBLB1, Guardian 4, X_X, No Weapon
+643: MSMCBLB1, Guardian 4, xD, Katana
+644: MSMCBLB1, Guardian 5 / WINGS, Red Skull, No Weapon
+645: MSMCBLB1, Guardian 5 / WINGS, X_X, No Weapon
+646: MSMCBLB1, Guardian 5 / WINGS, xD, No Weapon
+647: MSMCBLB3, Guardian 1 / BASE, Blank, Electric Sniper
+648: MSMCBLB3, Guardian 1 / BASE, Blue Eyes, Elemental Sniper X
+649: MSMCBLB3, Guardian 1 / BASE, Blue Eyes, Fire Sniper
+650: MSMCBLB3, Guardian 1 / BASE, Blue Eyes, Ice Katana
+651: MSMCBLB3, Guardian 1 / BASE, Blue Eyes, No Weapon
+652: MSMCBLB3, Guardian 1 / BASE, Green Eyes, Katana
+653: MSMCBLB3, Guardian 1 / BASE, Green Skull, No Weapon
+654: MSMCBLB3, Guardian 1 / BASE, Green Skull, No Weapon
+655: MSMCBLB3, Guardian 1 / BASE, Green Skull, Sniper
+656: MSMCBLB3, Guardian 1 / BASE, Heart, Fire Katana
+657: MSMCBLB3, Guardian 1 / BASE, Heart, No Weapon
+658: MSMCBLB3, Guardian 1 / BASE, Heart, No Weapon
+659: MSMCBLB3, Guardian 1 / BASE, KILL Text, Sniper
+660: MSMCBLB3, Guardian 1 / BASE, Red Eyes, No Weapon
+661: MSMCBLB3, Guardian 1 / BASE, Red Eyes, No Weapon
+662: MSMCBLB3, Guardian 1 / BASE, SOL Symbol, Katana
+663: MSMCBLB3, Guardian 1 / BASE, SOL Symbol, No Weapon
+664: MSMCBLB3, Guardian 1 / BASE, SOL Symbol, No Weapon
+665: MSMCBLB3, Guardian 1 / BASE, Target, Katana
+666: MSMCBLB3, Guardian 1 / BASE, X_X, No Weapon
+667: MSMCBLB3, Guardian 1 / BASE, o_o, No Weapon
+668: MSMCBLB3, Guardian 1 / BASE, xD, No Weapon
+669: MSMCBLB3, Guardian 2, :), No Weapon
+670: MSMCBLB3, Guardian 2, Blue Eyes, No Weapon
+671: MSMCBLB3, Guardian 2, Daft Punk, No Weapon
+672: MSMCBLB3, Guardian 2, Green Eyes, Electric Katana
+673: MSMCBLB3, Guardian 2, Green Eyes, No Weapon
+674: MSMCBLB3, Guardian 2, Green Skull, No Weapon
+675: MSMCBLB3, Guardian 2, Green Skull, No Weapon
+676: MSMCBLB3, Guardian 2, Heart, No Weapon
+677: MSMCBLB3, Guardian 2, Heart, No Weapon
+678: MSMCBLB3, Guardian 2, Red Eyes, Sniper
+679: MSMCBLB3, Guardian 2, SOL Symbol, No Weapon
+680: MSMCBLB3, Guardian 2, Target, No Weapon
+681: MSMCBLB3, Guardian 2, X_X, Electric Katana
+682: MSMCBLB3, Guardian 2, o_o, Katana
+683: MSMCBLB3, Guardian 2, o_o, No Weapon
+684: MSMCBLB3, Guardian 3, Red Eyes, No Weapon
+685: MSMCBLB3, Guardian 3, SOL Symbol, Elemental Sniper X
+686: MSMCBLB3, Guardian 3, Target, No Weapon
+687: MSMCBLB3, Guardian 3, xD, No Weapon
+688: MSMCBLB3, Guardian 4, $, No Weapon
+689: MSMCBLB3, Guardian 4, Blue Eyes, No Weapon
+690: MSMCBLB3, Guardian 4, Green Eyes, Sniper
+691: MSMCBLB3, Guardian 4, Green Skull, Katana
+692: MSMCBLB3, Guardian 4, Green Skull, No Weapon
+693: MSMCBLB3, Guardian 4, Mask, Electric Katana
+694: MSMCBLB3, Guardian 4, Red Eyes, Fire Katana
+695: Marble Blue, Guardian 1 / BASE, :), No Weapon
+696: Marble Blue, Guardian 1 / BASE, :), No Weapon
+697: Marble Blue, Guardian 1 / BASE, Blank, Fire Sniper
+698: Marble Blue, Guardian 1 / BASE, Blank, No Weapon
+699: Marble Blue, Guardian 1 / BASE, Blue Eyes, No Weapon
+700: Marble Blue, Guardian 1 / BASE, Blue Eyes, No Weapon
+701: Marble Blue, Guardian 1 / BASE, Daft Punk, No Weapon
+702: Marble Blue, Guardian 1 / BASE, Green Eyes, No Weapon
+703: Marble Blue, Guardian 1 / BASE, Heart, Katana
+704: Marble Blue, Guardian 1 / BASE, Mask, No Weapon
+705: Marble Blue, Guardian 1 / BASE, Red Eyes, No Weapon
+706: Marble Blue, Guardian 1 / BASE, Red Eyes, No Weapon
+707: Marble Blue, Guardian 1 / BASE, SOL Symbol, Electric Sniper
+708: Marble Blue, Guardian 1 / BASE, Target, Sniper
+709: Marble Blue, Guardian 1 / BASE, o_o, No Weapon
+710: Marble Blue, Guardian 1 / BASE, xD, No Weapon
+711: Marble Blue, Guardian 1 / BASE, xD, No Weapon
+712: Marble Blue, Guardian 2, Heart, No Weapon
+713: Marble Blue, Guardian 2, Red Eyes, No Weapon
+714: Marble Blue, Guardian 2, xD, Fire Sniper
+715: Marble Blue, Guardian 3, Green Eyes, Electric Sniper
+716: Marble Blue, Guardian 3, Green Eyes, Sniper
+717: Marble Blue, Guardian 3, Heart, Sniper
+718: Marble Blue, Guardian 3, KILL Text, Elemental Katana X
+719: Marble Blue, Guardian 3, Red Eyes, No Weapon
+720: Marble Blue, Guardian 3, X_X, Electric Sniper
+721: Marble Blue, Guardian 3, X_X, No Weapon
+722: Marble Blue, Guardian 3, o_o, No Weapon
+723: Marble Blue, Guardian 3, xD, Sniper
+724: Marble Blue, Guardian 4, Blank, No Weapon
+725: Marble Blue, Guardian 4, Green Eyes, Sniper
+726: Marble Blue, Guardian 4, Target, Fire Sniper
+727: Marble Blue, Guardian 4, X_X, No Weapon
+728: Marble Blue, Guardian 5 / WINGS, Blue Eyes, Sniper
+729: Marble Blue, Guardian 5 / WINGS, Blue Eyes, Sniper
+730: Marble Blue, Guardian 5 / WINGS, Green Eyes, Elemental Katana X
+731: Marble Blue, Guardian 5 / WINGS, Green Eyes, No Weapon
+732: Marble Blue, Guardian 5 / WINGS, Green Skull, No Weapon
+733: Marble Red, Guardian 1 / BASE, :), No Weapon
+734: Marble Red, Guardian 1 / BASE, Blank, No Weapon
+735: Marble Red, Guardian 1 / BASE, Blank, Sniper
+736: Marble Red, Guardian 1 / BASE, Blue Eyes, Katana
+737: Marble Red, Guardian 1 / BASE, Blue Eyes, No Weapon
+738: Marble Red, Guardian 1 / BASE, Green Eyes, Sniper
+739: Marble Red, Guardian 1 / BASE, Red Eyes, Ice Katana
+740: Marble Red, Guardian 1 / BASE, Red Eyes, No Weapon
+741: Marble Red, Guardian 1 / BASE, X_X, Fire Sniper
+742: Marble Red, Guardian 1 / BASE, X_X, Sniper
+743: Marble Red, Guardian 1 / BASE, X_X, Sniper
+744: Marble Red, Guardian 1 / BASE, o_o, No Weapon
+745: Marble Red, Guardian 1 / BASE, o_o, No Weapon
+746: Marble Red, Guardian 1 / BASE, xD, No Weapon
+747: Marble Red, Guardian 2, Blue Eyes, Sniper
+748: Marble Red, Guardian 2, KILL Text, Katana
+749: Marble Red, Guardian 2, KILL Text, No Weapon
+750: Marble Red, Guardian 2, Red Eyes, No Weapon
+751: Marble Red, Guardian 2, Red Eyes, No Weapon
+752: Marble Red, Guardian 2, xD, No Weapon
+753: Marble Red, Guardian 3, SOL Symbol, No Weapon
+754: Marble Red, Guardian 3, xD, No Weapon
+755: Marble Red, Guardian 4, :), No Weapon
+756: Marble Red, Guardian 4, Red Eyes, Elemental Katana X
+757: Marble Red, Guardian 5 / WINGS, Red Eyes, No Weapon
+758: Matte Black, Guardian 1 / BASE, $, No Weapon
+759: Matte Black, Guardian 1 / BASE, Blank, Electric Katana
+760: Matte Black, Guardian 1 / BASE, Blank, No Weapon
+761: Matte Black, Guardian 1 / BASE, Blank, No Weapon
+762: Matte Black, Guardian 1 / BASE, Blank, Sniper
+763: Matte Black, Guardian 1 / BASE, Blue Eyes, No Weapon
+764: Matte Black, Guardian 1 / BASE, Blue Eyes, No Weapon
+765: Matte Black, Guardian 1 / BASE, Green Eyes, Fire Katana
+766: Matte Black, Guardian 1 / BASE, Green Eyes, No Weapon
+767: Matte Black, Guardian 1 / BASE, Green Eyes, No Weapon
+768: Matte Black, Guardian 1 / BASE, Green Eyes, No Weapon
+769: Matte Black, Guardian 1 / BASE, Green Eyes, No Weapon
+770: Matte Black, Guardian 1 / BASE, Green Skull, Katana
+771: Matte Black, Guardian 1 / BASE, Heart, No Weapon
+772: Matte Black, Guardian 1 / BASE, Heart, No Weapon
+773: Matte Black, Guardian 1 / BASE, Heart, No Weapon
+774: Matte Black, Guardian 1 / BASE, Mask, No Weapon
+775: Matte Black, Guardian 1 / BASE, Mask, No Weapon
+776: Matte Black, Guardian 1 / BASE, Red Eyes, Electric Katana
+777: Matte Black, Guardian 1 / BASE, Red Eyes, No Weapon
+778: Matte Black, Guardian 1 / BASE, Red Eyes, No Weapon
+779: Matte Black, Guardian 1 / BASE, Red Eyes, No Weapon
+780: Matte Black, Guardian 1 / BASE, Red Skull, Electric Sniper
+781: Matte Black, Guardian 1 / BASE, Red Skull, Sniper
+782: Matte Black, Guardian 1 / BASE, SOL Symbol, Sniper
+783: Matte Black, Guardian 1 / BASE, Target, No Weapon
+784: Matte Black, Guardian 1 / BASE, Target, No Weapon
+785: Matte Black, Guardian 1 / BASE, X_X, Katana
+786: Matte Black, Guardian 1 / BASE, X_X, No Weapon
+787: Matte Black, Guardian 1 / BASE, X_X, No Weapon
+788: Matte Black, Guardian 1 / BASE, X_X, No Weapon
+789: Matte Black, Guardian 1 / BASE, o_o, No Weapon
+790: Matte Black, Guardian 1 / BASE, o_o, No Weapon
+791: Matte Black, Guardian 1 / BASE, xD, No Weapon
+792: Matte Black, Guardian 2, :), No Weapon
+793: Matte Black, Guardian 2, :), No Weapon
+794: Matte Black, Guardian 2, Blank, Katana
+795: Matte Black, Guardian 2, Blank, No Weapon
+796: Matte Black, Guardian 2, Blank, Sniper
+797: Matte Black, Guardian 2, Blue Eyes, No Weapon
+798: Matte Black, Guardian 2, Blue Eyes, No Weapon
+799: Matte Black, Guardian 2, Blue Eyes, No Weapon
+800: Matte Black, Guardian 2, Blue Skull, No Weapon
+801: Matte Black, Guardian 2, Green Eyes, Katana
+802: Matte Black, Guardian 2, Green Eyes, No Weapon
+803: Matte Black, Guardian 2, Green Eyes, No Weapon
+804: Matte Black, Guardian 2, Green Skull, No Weapon
+805: Matte Black, Guardian 2, Green Skull, Sniper
+806: Matte Black, Guardian 2, Heart, No Weapon
+807: Matte Black, Guardian 2, Red Eyes, No Weapon
+808: Matte Black, Guardian 2, Red Eyes, No Weapon
+809: Matte Black, Guardian 2, Red Eyes, Sniper
+810: Matte Black, Guardian 2, Red Skull, No Weapon
+811: Matte Black, Guardian 2, SOL Symbol, No Weapon
+812: Matte Black, Guardian 2, SOL Symbol, Sniper
+813: Matte Black, Guardian 2, X_X, Ice Katana
+814: Matte Black, Guardian 2, X_X, Katana
+815: Matte Black, Guardian 2, o_o, Electric Sniper
+816: Matte Black, Guardian 2, o_o, No Weapon
+817: Matte Black, Guardian 2, o_o, No Weapon
+818: Matte Black, Guardian 2, xD, No Weapon
+819: Matte Black, Guardian 3, $, Elemental Sniper X
+820: Matte Black, Guardian 3, :), Electric Katana
+821: Matte Black, Guardian 3, :), No Weapon
+822: Matte Black, Guardian 3, Blank, No Weapon
+823: Matte Black, Guardian 3, Blank, No Weapon
+824: Matte Black, Guardian 3, Blank, No Weapon
+825: Matte Black, Guardian 3, Blue Eyes, Sniper
+826: Matte Black, Guardian 3, Blue Skull, No Weapon
+827: Matte Black, Guardian 3, Blue Skull, No Weapon
+828: Matte Black, Guardian 3, Daft Punk, No Weapon
+829: Matte Black, Guardian 3, Green Eyes, Katana
+830: Matte Black, Guardian 3, Heart, No Weapon
+831: Matte Black, Guardian 3, KILL Text, Katana
+832: Matte Black, Guardian 3, KILL Text, No Weapon
+833: Matte Black, Guardian 3, Mask, No Weapon
+834: Matte Black, Guardian 3, Red Eyes, Ice Sniper
+835: Matte Black, Guardian 3, Red Eyes, Ice Sniper
+836: Matte Black, Guardian 3, Red Eyes, No Weapon
+837: Matte Black, Guardian 3, Red Eyes, No Weapon
+838: Matte Black, Guardian 3, Red Eyes, No Weapon
+839: Matte Black, Guardian 3, Red Skull, No Weapon
+840: Matte Black, Guardian 3, SOL Symbol, No Weapon
+841: Matte Black, Guardian 3, X_X, No Weapon
+842: Matte Black, Guardian 3, X_X, Sniper
+843: Matte Black, Guardian 3, o_o, No Weapon
+844: Matte Black, Guardian 3, o_o, Sniper
+845: Matte Black, Guardian 3, xD, No Weapon
+846: Matte Black, Guardian 3, xD, No Weapon
+847: Matte Black, Guardian 4, Green Eyes, Katana
+848: Matte Black, Guardian 4, Green Eyes, No Weapon
+849: Matte Black, Guardian 4, Green Skull, No Weapon
+850: Matte Black, Guardian 4, Heart, No Weapon
+851: Matte Black, Guardian 4, Heart, Sniper
+852: Matte Black, Guardian 4, Red Eyes, No Weapon
+853: Matte Black, Guardian 4, Red Eyes, Sniper
+854: Matte Black, Guardian 4, Red Skull, No Weapon
+855: Matte Black, Guardian 5 / WINGS, :), No Weapon
+856: Matte Black, Guardian 5 / WINGS, Green Eyes, No Weapon
+857: Matte Black, Guardian 5 / WINGS, Heart, No Weapon
+858: Matte Black, Guardian 5 / WINGS, KILL Text, Ice Katana
+859: Matte Black, Guardian 5 / WINGS, SOL Symbol, No Weapon
+860: Matte Black, Guardian 5 / WINGS, xD, No Weapon
+861: Neon, Guardian 1 / BASE, Blank, Katana
+862: Neon, Guardian 1 / BASE, Blank, No Weapon
+863: Neon, Guardian 1 / BASE, Blue Eyes, Katana
+864: Neon, Guardian 1 / BASE, Blue Eyes, No Weapon
+865: Neon, Guardian 1 / BASE, Heart, No Weapon
+866: Neon, Guardian 1 / BASE, Red Eyes, No Weapon
+867: Neon, Guardian 1 / BASE, Red Eyes, No Weapon
+868: Neon, Guardian 1 / BASE, SOL Symbol, No Weapon
+869: Neon, Guardian 1 / BASE, Target, No Weapon
+870: Neon, Guardian 1 / BASE, xD, No Weapon
+871: Neon, Guardian 2, Blank, Electric Sniper
+872: Neon, Guardian 2, Blank, No Weapon
+873: Neon, Guardian 2, Green Eyes, No Weapon
+874: Neon, Guardian 2, Red Eyes, No Weapon
+875: Neon, Guardian 2, Target, No Weapon
+876: Neon, Guardian 2, xD, No Weapon
+877: Neon, Guardian 3, :), No Weapon
+878: Neon, Guardian 3, Blank, Ice Sniper
+879: Neon, Guardian 3, Blue Eyes, Sniper
+880: Neon, Guardian 3, Blue Skull, No Weapon
+881: Neon, Guardian 3, Green Eyes, No Weapon
+882: Neon, Guardian 3, Red Skull, No Weapon
+883: Neon, Guardian 3, Red Skull, No Weapon
+884: Neon, Guardian 4, Blank, Electric Katana
+885: Neon, Guardian 4, Blue Skull, No Weapon
+886: Neon, Guardian 4, KILL Text, No Weapon
+887: Neon, Guardian 4, o_o, No Weapon
+888: Neon, Guardian 5 / WINGS, Blue Eyes, No Weapon
+889: TitaniumBlk, Guardian 1 / BASE, :), Katana
+890: TitaniumBlk, Guardian 1 / BASE, :), No Weapon
+891: TitaniumBlk, Guardian 1 / BASE, :), Sniper
+892: TitaniumBlk, Guardian 1 / BASE, Blank, No Weapon
+893: TitaniumBlk, Guardian 1 / BASE, Blank, No Weapon
+894: TitaniumBlk, Guardian 1 / BASE, Blank, No Weapon
+895: TitaniumBlk, Guardian 1 / BASE, Blank, No Weapon
+896: TitaniumBlk, Guardian 1 / BASE, Blank, No Weapon
+897: TitaniumBlk, Guardian 1 / BASE, Blank, No Weapon
+898: TitaniumBlk, Guardian 1 / BASE, Blank, No Weapon
+899: TitaniumBlk, Guardian 1 / BASE, Blue Eyes, No Weapon
+900: TitaniumBlk, Guardian 1 / BASE, Blue Eyes, No Weapon
+901: TitaniumBlk, Guardian 1 / BASE, Blue Eyes, No Weapon
+902: TitaniumBlk, Guardian 1 / BASE, Blue Skull, Electric Sniper
+903: TitaniumBlk, Guardian 1 / BASE, Blue Skull, No Weapon
+904: TitaniumBlk, Guardian 1 / BASE, Blue Skull, No Weapon
+905: TitaniumBlk, Guardian 1 / BASE, Blue Skull, No Weapon
+906: TitaniumBlk, Guardian 1 / BASE, Blue Skull, No Weapon
+907: TitaniumBlk, Guardian 1 / BASE, Blue Skull, No Weapon
+908: TitaniumBlk, Guardian 1 / BASE, Blue Skull, No Weapon
+909: TitaniumBlk, Guardian 1 / BASE, Daft Punk, No Weapon
+910: TitaniumBlk, Guardian 1 / BASE, Green Eyes, Electric Sniper
+911: TitaniumBlk, Guardian 1 / BASE, Green Eyes, No Weapon
+912: TitaniumBlk, Guardian 1 / BASE, Green Eyes, No Weapon
+913: TitaniumBlk, Guardian 1 / BASE, Green Eyes, Sniper
+914: TitaniumBlk, Guardian 1 / BASE, Green Eyes, Sniper
+915: TitaniumBlk, Guardian 1 / BASE, Green Skull, Ice Katana
+916: TitaniumBlk, Guardian 1 / BASE, Green Skull, Ice Sniper
+917: TitaniumBlk, Guardian 1 / BASE, Green Skull, Sniper
+918: TitaniumBlk, Guardian 1 / BASE, Heart, No Weapon
+919: TitaniumBlk, Guardian 1 / BASE, Heart, No Weapon
+920: TitaniumBlk, Guardian 1 / BASE, KILL Text, Ice Sniper
+921: TitaniumBlk, Guardian 1 / BASE, KILL Text, Katana
+922: TitaniumBlk, Guardian 1 / BASE, KILL Text, No Weapon
+923: TitaniumBlk, Guardian 1 / BASE, KILL Text, No Weapon
+924: TitaniumBlk, Guardian 1 / BASE, Mask, No Weapon
+925: TitaniumBlk, Guardian 1 / BASE, Red Eyes, No Weapon
+926: TitaniumBlk, Guardian 1 / BASE, Red Eyes, No Weapon
+927: TitaniumBlk, Guardian 1 / BASE, Red Eyes, No Weapon
+928: TitaniumBlk, Guardian 1 / BASE, Red Eyes, No Weapon
+929: TitaniumBlk, Guardian 1 / BASE, Red Eyes, No Weapon
+930: TitaniumBlk, Guardian 1 / BASE, Red Skull, Sniper
+931: TitaniumBlk, Guardian 1 / BASE, SOL Symbol, Ice Sniper
+932: TitaniumBlk, Guardian 1 / BASE, X_X, No Weapon
+933: TitaniumBlk, Guardian 1 / BASE, X_X, No Weapon
+934: TitaniumBlk, Guardian 1 / BASE, X_X, No Weapon
+935: TitaniumBlk, Guardian 1 / BASE, o_o, Fire Sniper
+936: TitaniumBlk, Guardian 1 / BASE, o_o, No Weapon
+937: TitaniumBlk, Guardian 1 / BASE, o_o, No Weapon
+938: TitaniumBlk, Guardian 1 / BASE, xD, Katana
+939: TitaniumBlk, Guardian 1 / BASE, xD, No Weapon
+940: TitaniumBlk, Guardian 1 / BASE, xD, No Weapon
+941: TitaniumBlk, Guardian 2, $, No Weapon
+942: TitaniumBlk, Guardian 2, :), No Weapon
+943: TitaniumBlk, Guardian 2, Blank, No Weapon
+944: TitaniumBlk, Guardian 2, Blank, No Weapon
+945: TitaniumBlk, Guardian 2, Blank, No Weapon
+946: TitaniumBlk, Guardian 2, Blank, No Weapon
+947: TitaniumBlk, Guardian 2, Blank, No Weapon
+948: TitaniumBlk, Guardian 2, Blue Eyes, No Weapon
+949: TitaniumBlk, Guardian 2, Blue Eyes, No Weapon
+950: TitaniumBlk, Guardian 2, Green Skull, No Weapon
+951: TitaniumBlk, Guardian 2, Green Skull, No Weapon
+952: TitaniumBlk, Guardian 2, Heart, Electric Sniper
+953: TitaniumBlk, Guardian 2, Heart, No Weapon
+954: TitaniumBlk, Guardian 2, Red Eyes, No Weapon
+955: TitaniumBlk, Guardian 2, Red Eyes, No Weapon
+956: TitaniumBlk, Guardian 2, Red Eyes, No Weapon
+957: TitaniumBlk, Guardian 2, Red Skull, Katana
+958: TitaniumBlk, Guardian 2, Red Skull, No Weapon
+959: TitaniumBlk, Guardian 2, SOL Symbol, No Weapon
+960: TitaniumBlk, Guardian 2, X_X, No Weapon
+961: TitaniumBlk, Guardian 2, X_X, Sniper
+962: TitaniumBlk, Guardian 2, o_o, Ice Katana
+963: TitaniumBlk, Guardian 2, xD, No Weapon
+964: TitaniumBlk, Guardian 2, xD, No Weapon
+965: TitaniumBlk, Guardian 3, $, Fire Sniper
+966: TitaniumBlk, Guardian 3, $, No Weapon
+967: TitaniumBlk, Guardian 3, Blue Eyes, Fire Katana
+968: TitaniumBlk, Guardian 3, Blue Skull, No Weapon
+969: TitaniumBlk, Guardian 3, Daft Punk, No Weapon
+970: TitaniumBlk, Guardian 3, Green Eyes, Katana
+971: TitaniumBlk, Guardian 3, Green Eyes, No Weapon
+972: TitaniumBlk, Guardian 3, Green Skull, No Weapon
+973: TitaniumBlk, Guardian 3, Heart, Ice Sniper
+974: TitaniumBlk, Guardian 3, KILL Text, No Weapon
+975: TitaniumBlk, Guardian 3, Mask, No Weapon
+976: TitaniumBlk, Guardian 3, Red Eyes, No Weapon
+977: TitaniumBlk, Guardian 3, Red Skull, No Weapon
+978: TitaniumBlk, Guardian 3, Target, Katana
+979: TitaniumBlk, Guardian 3, X_X, No Weapon
+980: TitaniumBlk, Guardian 3, o_o, Katana
+981: TitaniumBlk, Guardian 3, o_o, No Weapon
+982: TitaniumBlk, Guardian 3, o_o, Sniper
+983: TitaniumBlk, Guardian 3, xD, Katana
+984: TitaniumBlk, Guardian 3, xD, No Weapon
+985: TitaniumBlk, Guardian 4, :), No Weapon
+986: TitaniumBlk, Guardian 4, Blue Eyes, No Weapon
+987: TitaniumBlk, Guardian 4, Blue Eyes, No Weapon
+988: TitaniumBlk, Guardian 4, Green Eyes, Sniper
+989: TitaniumBlk, Guardian 4, Heart, Katana
+990: TitaniumBlk, Guardian 4, Heart, No Weapon
+991: TitaniumBlk, Guardian 4, Heart, No Weapon
+992: TitaniumBlk, Guardian 4, Red Eyes, No Weapon
+993: TitaniumBlk, Guardian 4, xD, Sniper
+994: TitaniumBlk, Guardian 5 / WINGS, Blank, Fire Katana
+995: TitaniumBlk, Guardian 5 / WINGS, Blue Eyes, No Weapon
+996: TitaniumBlk, Guardian 5 / WINGS, Blue Eyes, No Weapon
+997: TitaniumBlk, Guardian 5 / WINGS, Green Skull, No Weapon
+998: TitaniumBlk, Guardian 5 / WINGS, Green Skull, Sniper
+999: TitaniumBlk, Guardian 5 / WINGS, KILL Text, No Weapon
