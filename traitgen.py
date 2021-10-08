@@ -1,6 +1,7 @@
 import random, os
+from typing import Hashable
 
-guardians = 999
+guardians = 60000
 
 slot = []
 rarity = []
@@ -32,10 +33,14 @@ for x in range(guardians):
 all.sort()
 
 count = 1
+final = {}
 with open("generated.txt", "w") as results:
-    for list in all:
-        results.write(str(count) + ": " + ", ".join(list) + "\n")
-        count += 1
+    for item in all:
+        line = ", ".join(item)
+        if line not in final:
+            final[line] = True
+            results.write(str(count) + ": " + line + "\n")
+            count += 1
 
 # Open the file
 # Read each trait category into an array
