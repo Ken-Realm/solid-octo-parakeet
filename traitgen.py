@@ -29,7 +29,7 @@ for x in range(guardians):
         each.append(y[x])
     all.append(each)
 
-all.sort()
+#all.sort()
 
 count = 1
 final = {}
