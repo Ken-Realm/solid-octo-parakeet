@@ -1,7 +1,7 @@
 import random, os
 from typing import Hashable
 
-guardians = 60000
+guardians = 22500
 
 slot = []
 rarity = []
@@ -34,13 +34,67 @@ all.sort()
 
 count = 1
 final = {}
-with open("generated.txt", "w") as results:
+ranks = {}
+level = {}
+hud = {}
+skin = {}
+weapons = {}
+with open("./generated.txt", "w+") as results:
     for item in all:
         line = ", ".join(item)
         if line not in final:
             final[line] = True
             results.write(str(count) + ": " + line + "\n")
             count += 1
+
+            if item[0] in ranks:
+                ranks[item[0]] +=1
+            else:
+                ranks[item[0]] = 1
+
+            if item[1] in skin:
+                skin[item[1]] += 1
+            else:
+                skin[item[1]] = 1
+
+            if item[2] in level:
+                level[item[2]] += 1
+            else:
+                level[item[2]] = 1
+
+            if item[3] in hud:
+                hud[item[3]] += 1
+            else:
+                hud[item[3]] = 1
+
+            if item[4] in weapons:
+                weapons[item[4]] += 1
+            else:
+                weapons[item[4]] = 1
+    
+    for key in sorted(ranks.keys()):
+        ranks[key] = ranks[key]/100
+    for key in sorted(skin.keys()):
+        skin[key] = skin[key]/100
+    for key in sorted(level.keys()):
+        level[key] = level[key]/100
+    for key in sorted(hud.keys()):
+        hud[key] = hud[key]/100
+    for key in sorted(weapons.keys()):
+        weapons[key] = weapons[key]/100
+
+    results.seek(0,0)
+    content=results.read()
+    results.seek(0,0)
+    results.write(str(ranks).rstrip('\r\n') + '\n')
+    results.write(str(skin).rstrip('\r\n') + '\n')
+    results.write(str(level).rstrip('\r\n') + '\n')
+    results.write(str(hud).rstrip('\r\n') + '\n')
+    results.write(str(weapons).rstrip('\r\n') + '\n' + content)
+
+print(count)
+
+
 
 # Open the file
 # Read each trait category into an array
