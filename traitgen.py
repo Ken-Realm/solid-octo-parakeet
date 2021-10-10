@@ -1,7 +1,6 @@
 import random, os
-from typing import Hashable
 
-guardians = 22500
+guardians = 12000
 
 slot = []
 rarity = []
@@ -39,6 +38,10 @@ level = {}
 hud = {}
 skin = {}
 weapons = {}
+
+if os.path.exists("./generated.txt"):
+  os.remove("./generated.txt")
+
 with open("./generated.txt", "w+") as results:
     for item in all:
         line = ", ".join(item)
